@@ -1,0 +1,7 @@
+{
+  "name": "StudyVerse",
+  "description": "A gamified, Duolingo-style study world powered by Gemini AI. Turn your syllabus into an adventure.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
